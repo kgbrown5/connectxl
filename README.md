@@ -12,7 +12,7 @@ A virtual assistant would allow users to conversationally query real-time usage 
 
 ## Adding the Chatbot
 
-ConnectXL is implemented as a chatbot displayed on the [coworking page](https://csxl-team-b1-comp423-25s.apps.unc.edu/coworking) on the CSXL web application.
+ConnectXL is implemented as a chatbot displayed on the coworking page on the CSXL web application.
 
 ### Frontend
 
