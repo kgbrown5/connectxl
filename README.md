@@ -36,7 +36,7 @@ The request service relies on the `GeneralAIResponse` model defined in `backend/
 
 ## Feature 1: Find a Friend
 
-![Find a friend](images/check_activity.png)
+![Find a friend](docs/images/check_activity.png)
 
 ### Service
 
@@ -63,9 +63,9 @@ This feature relies on existing CSXL database fetching functionality and does no
 
 ## Feature 2: Cancel Coworking Reservations
 
-![Before cancellation](images/pre_cancel.png)
+![Before cancellation](docs/images/pre_cancel.png)
 
-![Post cancellation](images/post_cancel.png)
+![Post cancellation](docs/images/post_cancel.png)
 
 ### Service
 
