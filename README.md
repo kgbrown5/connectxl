@@ -1,4 +1,4 @@
-# Documentation for ConnectXL: the CSXL's AI Assistant
+# ConnectXL: the CSXL's AI Assistant
 > Developed by Team B1: [Caroline Bryan](https://github.com/cgbryan1), [Katie Brown](https://github.com/kgbrown5), [Emma Coye](https://github.com/emmacoye), & [Manasi Chaudhary](https://github.com/mchaudh-21)
 > 
 > COMP423: Foundations of Software Engineering Final Project
